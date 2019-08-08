@@ -1,0 +1,11 @@
+sql:
+  ip: localhost
+  port: 3306
+  username: username
+  password: password
+  database: database
+
+messages:
+  - "&d[*] &5The server is still in beta. If you find any bugs, please report them."
+  - "&d[*] &5Join our discord &ddiscord.patrone.cc&5."
+  - "&d[*] &5Butterfly clicking is a bannable offense. Do it at your own risk."

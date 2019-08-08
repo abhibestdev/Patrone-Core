@@ -1,0 +1,4 @@
+name: Core
+author: abhi
+version: 1.0
+main: cc.patrone.core.CorePlugin
